@@ -92,7 +92,7 @@ The application interacts with the following server endpoints:
 * Ping Server: http://localhost:3000/ping
 * Submit Data: http://localhost:3000/submit
 * Read Data by Index: [http://localhost:3000/read?index=10](http://localhost:3000/read?index=10)
-* Read Data by Email: [http://localhost:3000/read?email="mail"](http://localhost:3000/read?email="mail")
+* Read Data by Email: [http://localhost:3000/read?email=pzalpha1@gmail.com](http://localhost:3000/read?email=pzalpha1@gmail.com)
 
 
 # Purpose
