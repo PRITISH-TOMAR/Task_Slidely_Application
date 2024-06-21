@@ -39,7 +39,7 @@ To get a local copy of the project up and running, follow these steps:
 1. Clone the Repository:
 
 ```bash
-  https://github.com/PRITISH-TOMAR/Task_Slidely_Application
+  git clone https://github.com/PRITISH-TOMAR/Task_Slidely_Application
 ```
 2. Open the solution file in Visual Studio.
 3. Build the project to restore dependencies.
